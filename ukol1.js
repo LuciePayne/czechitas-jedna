@@ -76,7 +76,7 @@ počkat ještě 4 let, než budete moci řídit auto
 */
 
 
-let vek = Number (prompt('Kolik ti je let?'))
+/* let vek = Number (prompt('Kolik ti je let?'))
 
   
 
@@ -89,6 +89,7 @@ if (vek===30) {
   console.log('Vaše jméno je Marian, je vám 14 let a tak musíte počkat ještě 4 let, než budete moci řídit auto');
   }
 
+*/
 
 
 
